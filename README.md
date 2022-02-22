@@ -1,11 +1,11 @@
 # ServerTools-CountryBan
-Country ban tool. A mod extension for ServerTools dedicated server manager
+Country ban tool. A mod extension for ServerTools dedicated server manager<br>
 <br>
 This mod will add the ability to automatically ban clients that join your server from specific countries<br> 
 Use ISO country codes to designate which countries are banned<br>
 Setup is done through the console using various commands<br>
 st-cb add {EOS} will add a user by their EOS id to the immunity list<br>
-help st-cb gives more information on the available console commands
+help st-cb gives more information on the available console commands<br>
 <br>
 Installation: <br>
 Unpack the latest release <br>

@@ -1,5 +1,7 @@
 # ServerTools-CountryBan
 Country ban tool. A mod extension for ServerTools dedicated server manager<br>
+ServerTools Download:<br>
+https://github.com/dmustanger/7dtd-ServerTools/releases<br>
 <br>
 This mod will add the ability to automatically ban clients that join your server from specific countries<br> 
 Use ISO country codes to designate which countries are banned<br>

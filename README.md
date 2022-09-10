@@ -7,13 +7,15 @@ Setup is done through the console using various commands<br>
 st-ctb add {EOS} will add a user by their EOS id to the immunity list<br>
 help st-ctb gives more information on the available console commands<br>
 <br>
-Installation: <br>
-Unpack the latest release <br>
-After unpacking, copy and paste the provided Mods folder to your dedicated server's main installation directory <br>
+Installation:<br>
+Unpack the latest release from the .zip file<br>
+After unpacking, copy and paste the provided Mods folder to your User Data Folder.<br>
+If you are still using the old Mod installation location, place it in your main server directory<br>
 <br>
-Example <br>
-C:\7DaysToDieServers\Dedicated <br>
+Example<br>
+...\AppData\Roaming\7DaysToDie<br>
+Or<br>
+...\7DaysToDieServers\Dedicated<br>
 <br>
-Typically your 7DaysToDieServer.exe will be located in this folder <br>
-If you already have a prior version of the mod, overwrite the existing files when prompted <br>
-<br>
+Start your server<br>
+Use console command 'help st-ctb' to get more information about running the Country Ban tool
